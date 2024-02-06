@@ -1,6 +1,6 @@
 # SMS Spam Detection System
 
-![SMS Spam Detection System Interface](https://github.com/AnmolYaseen01/Sms_Spam_Detection_system\screenshot.png)
+![SMS Spam Detection System Interface](https://github.com/AnmolYaseen01/Sms_Spam_Detection_system/blob/main/Sms%20Spam%20Detection%20system/Screenshot.png?raw=true)
 
 ## Table of Contents
 - [Project Overview](#project-overview)
